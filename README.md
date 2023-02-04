@@ -16,6 +16,9 @@
     </a>
 </p>
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FChizer77%2FSimple2DMapEditor.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FChizer77%2FSimple2DMapEditor?ref=badge_large)
+
 ### Background
 注意❗这是一个练习自用的简易2D地图编辑器🗺
 
@@ -36,8 +39,8 @@
 
 ### 素材
 ![贴图素材](exampleImage/mapImage.png "贴图素材")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FChizer77%2FSimple2DMapEditor.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FChizer77%2FSimple2DMapEditor?ref=badge_shield)
 > 免费素材来源：[KENNEY](www.kenney.nl)
 
 ### LICENSE
 [**MIT**](LICENSE.md)
-
