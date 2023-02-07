@@ -38,7 +38,7 @@
 
 ### 素材 | Picture Source
 ![贴图素材](exampleImage/mapImage.png "贴图素材")
-> 免费素材来源：[KENNEY](www.kenney.nl)
+> 免费素材来源：www.kenney.nl
 
 ### 许可 | LICENSE
 <details>
